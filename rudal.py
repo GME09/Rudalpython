@@ -8,7 +8,7 @@ def main(stdscr):
         curses.curs_set(0)
         stdscr.nodelay(1)
         stdscr.timeout(10)
-               = [
+        gambar = [
             "⢀        ⡴⢹⠙⣄",
             "        ⣸   ⠘ ⢸⡀",
             "        ⡇      ⣇",
